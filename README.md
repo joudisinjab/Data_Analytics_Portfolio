@@ -15,6 +15,7 @@ This repository showcases data analytic projects completed and highlights skills
 - Objective: The main goal is to classify creditworthiness effectively, exploring the impact of feature selection on model performance. 
 - Skills Demonstrated: Data Cleaning and Preprocessing, Exploratory Data Analysis, Statistical Analysis, Classification Machine Learning Models, Model Evaluation and Optimization Techniques
 - Tools/Libraries: Python (Pandas, Numpy, Seaborn, Matplotlib, Scipy, Sklearn), and Jupyter Notebook
+  [View Project on Github](https://github.com/joudisinjab/Credit_Risk_Analysis)
    
 ### 3. Data Analysis, Manipulation, and Visualization of Forest Fires Dataset 
  - Objective: The assignment primarily focuses on data manipulation and exploratory analysis using Pandas. I practiced filtering, sorting, feature engineering, aggregating data, and visualizing key metrics.
