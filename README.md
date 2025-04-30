@@ -43,7 +43,7 @@ All projects can be viewed in the Mini-projects repository [View Mini-Projects](
 - **Skills Demonstrated:** table joins, data aggregation, conditional filtering
 - **Tools/Libraries Used:** SQL, MySQL Workbench
 
-### 3. Heart Disease Classification
+### 3. Heart Disease Clustering
 - **Objective:** This project explores clustering within the Heart Disease Dataset by standardizing numerical attributes and applying the K-Means clustering algorithm.
 - **Skills Demonstrated:** Data preparation, data standardization, statistical analysis, K-Means clustering, and data visualization
 - **Tools/Libraries Used:** SAS
